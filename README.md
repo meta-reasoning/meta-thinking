@@ -1,9 +1,9 @@
-# Package name
+# Meta-thinking
 <pre>
-  pip install package-name
+  pip install meta-thinking
 </pre>
 Then:
 ```Python
   # Python
-  import package_name
+  import meta_thinking
 ```
